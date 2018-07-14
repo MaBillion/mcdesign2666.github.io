@@ -1,0 +1,7 @@
+# Site settings
+title: chao.ma personal website
+description: A website that keeps track of life
+keywords: blog, life, Fun
+author: chao.ma
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
